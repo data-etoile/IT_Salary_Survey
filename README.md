@@ -8,5 +8,11 @@ The primary objective of this survey is to gain insights into the competitive va
  
 I analyzed data in Jupyter Notebook and created visualizations using the Plotly library. However, GitHub provides does not display the interactive Plotly graphs, as they require embedded HTML/JavaScript.
 
-To view the interactive visualizations, please follow these steps:
+To view the interactive visualizations, please follow these steps:      
+      
+Copy and pase the link of my GitHub notebook that you want to view here https://nbviewer.org/
+
+This will redirect you to the nbviewer platform, which will render the notebook with all the interactive Plotly graphs visible.
+
+Feel free to explore the visualizations and the rest of the notebook. If you have any questions or need further assistance, don't hesitate to ask!
 
